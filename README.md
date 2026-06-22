@@ -47,6 +47,15 @@ results with Camofox (or CloakBrowser if the site is protected).
   SearXNG for initial search, Camofox for browsing, CloakBrowser if
   the site is protected. Zero human intervention.
 
+- **Deep Research mode.** The skill instructs the agent to go beyond
+  superficial answers: explore multiple angles, cross-verify sources,
+  cover every aspect, and never cut corners. Tokens and time are
+  irrelevant — accuracy is all that matters.
+
+- **Fully customizable.** The SKILL.md is plain text. You can edit the
+  core rules, add your own, remove what you don't need. Adapt it to
+  your workflow, your team, your standards.
+
 - **Native stealth.** CloakBrowser automatically detects Cloudflare,
   Akamai, DataDome, Imperva, PerimeterX, and DDoS-Guard challenges,
   and waits for them to resolve before extracting content.
