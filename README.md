@@ -1,12 +1,19 @@
 # browser-search
 
-Web search and automated browsing for AI agents.
+> **A skill for AI agents.** OpenCode, Claude Code, Cursor, OpenClaw and
+> beyond. Search the web with SearXNG, browse with Camofox, bypass
+> protections with CloakBrowser. All self-hosted, free, unlimited.
 
 ## Why it exists
 
-AI agents like OpenCode, Claude Code, Cursor, OpenClaw and other assistants
-need to search and browse the web to answer timely questions, analyze live
-documentation, verify sources, and do research.
+browser-search is a SKILL — an instruction set for AI agents like OpenCode,
+Claude Code, Cursor, OpenClaw and others. It teaches your agent how to
+search and browse the web using three orchestrated open source tools.
+
+The problem? The web is hostile to automation. Cloudflare, Akamai, DataDome
+and other anti-bot systems block simple requests. Modern sites use heavy
+JavaScript, lazy loading, and client-side rendering. One single solution
+is not enough.
 
 The problem? The web is hostile to automation. Cloudflare, Akamai, DataDome
 and other anti-bot systems block simple requests. Modern sites use heavy
