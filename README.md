@@ -227,6 +227,18 @@ integrated documentation.
 - **Download files.** It is read-only (except for explicit screenshots).
 - **Bypass paywalls.** Does not circumvent payment or login systems.
 
+## Get involved
+
+browser-search is open source and free. If you find it useful:
+
+- ⭐ **Star the repo** — helps others discover it
+- 🐛 **Open an issue** — report bugs or suggest features
+- 🔀 **Submit a PR** — fix, improve, extend
+- 💬 **Share it** — with your team, on Reddit, Twitter, Discord
+- 🧠 **Adapt it** — fork it, tweak the SKILL.md, make it yours
+
+Every contribution, no matter how small, makes this better.
+
 ## License
 
 MIT
